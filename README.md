@@ -1,6 +1,3 @@
-⚠️ Note: Although the original project specification mentioned **Next.js** and **FastAPI**, this implementation uses Django for both backend and Html,CSS,JavaScript.
-I am fully capable of working with   and **REST APIs**, FastAPI**, so this project demonstrates my understanding of authentication, user management, and dashboard creation.  
-
 # Django Registration & Login System
 
 **Project Completed By:** Safir Ahmad  
