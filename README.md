@@ -38,7 +38,8 @@ This is a fully functional **User Registration and Login system** built using **
 - Update personal information (name, email, phone, password)
 - Information is rendered dynamically per user
 
-###- User Registration & Validation
+
+## User Registration & Validation
 The registration system ensures secure and consistent user data. It includes the following validations:
 Unique Username – Each username must be unique; users cannot register with a username that already exists in the database.
 Unique Email – Each email must be unique; duplicate email addresses are not allowed.
