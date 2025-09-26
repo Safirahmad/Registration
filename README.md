@@ -84,7 +84,7 @@ These validations provide a robust and user-friendly registration process, preve
   python manage.py migrate
 
 
-3.i have already createsuperuser if you want can delete the complete database and from start makemigrations , and after create createsuperuser otherwised username='ahmad' & password=khan1122
+3.i have already createsuperuser if you want can delete the complete database and from start makemigrations , and after create createsuperuser otherwise username='ahmad' & password=khan1122
 python manage.py createsuperuser 
 
 4.python manage.py runserver
