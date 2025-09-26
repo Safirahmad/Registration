@@ -72,9 +72,22 @@ These validations provide a robust and user-friendly registration process, preve
 
 ---
 
-## How to Run
+## How to Run 
+⚠️ Note: You must install python , django , django rest framework in your computer
+
 1. Clone the repository:  
-   ```bash
+   git clone https://github.com/YourUsername/RepositoryName.git
+   
+
+2. Open the  the repository :
+  python manage.py makemigrations
+  python manage.py migrate
+
+
+3.i have already createsuperuser if you want can delete the complete database and from start makemigrations , and after create createsuperuser otherwised username='ahmad' & password=khan1122
+python manage.py createsuperuser 
+
+4.python manage.py runserver
+ 
 
    
-   git clone https://github.com/Safirahmad/Registration.git
