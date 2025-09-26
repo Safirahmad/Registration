@@ -38,6 +38,13 @@ This is a fully functional **User Registration and Login system** built using **
 - Update personal information (name, email, phone, password)
 - Information is rendered dynamically per user
 
+###- User Registration & Validation
+The registration system ensures secure and consistent user data. It includes the following validations:
+Unique Username – Each username must be unique; users cannot register with a username that already exists in the database.
+Unique Email – Each email must be unique; duplicate email addresses are not allowed.
+Password Confirmation – Users must enter the password twice, and both entries must match to ensure accuracy.
+These validations provide a robust and user-friendly registration process, preventing duplicate accounts and minimizing input errors. Combined with email OTP verification, this ensures that only legitimate users can create accounts and access the system.
+
 ⚠️ Note: Although the original project specification mentioned Next.js and FastAPI, this implementation leverages Django along with HTML, CSS, and JavaScript to create a fully functional authentication and dashboard system. This project highlights my solid understanding of user management, secure authentication, and dynamic interface development. I am confident in working with Django REST Framework, FastAPI, or other modern technologies, and I am ready to quickly adapt and contribute to delivering high-quality solutions for your team.
 
 
