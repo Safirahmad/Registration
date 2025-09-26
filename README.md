@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This is a fully functional **User Registration and Login system** built using **Django**, **HTML**, **CSS**, and **JavaScript**. The system implements secure authentication and allows users to:
+This is a fully functional **User Registration and Login system** built using **Django**, The system implements secure authentication and allows users to:
 
 - Register with **Email OTP verification**
 - Login securely
