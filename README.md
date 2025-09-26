@@ -1,0 +1,75 @@
+⚠️ Note: Although the original project specification mentioned **Next.js** and **FastAPI**, this implementation uses Django for both backend and Html,CSS,JavaScript.
+I am fully capable of working with   and **REST APIs**, FastAPI**, so this project demonstrates my understanding of authentication, user management, and dashboard creation.  
+
+# Django Registration & Login System
+
+**Project Completed By:** Safir Ahmad  
+**Email:** pellowdeveloper@gmail.com  
+**Phone Number:** 03497290988  
+
+---
+
+## Project Overview
+
+This is a fully functional **User Registration and Login system** built using **Django**, **HTML**, **CSS**, and **JavaScript**. The system implements secure authentication and allows users to:
+
+- Register with **Email OTP verification**
+- Login securely
+- Update their **profile details** including:
+  - First Name
+  - Last Name
+  - Email
+  - Password
+  - Mobile Number
+  - Profile Picture
+- View all personal information on a **dashboard**
+- Upload and display profile images dynamically
+
+---
+
+## Key Features
+
+### **Authentication**
+- Secure password hashing via Django’s built-in user model
+- OTP verification for email during registration
+- Login and logout functionality
+- User sessions managed securely
+
+### **Profile Management**
+- Dashboard for logged-in users
+- Upload and display **profile picture**
+- Update personal information (name, email, phone, password)
+- Information is rendered dynamically per user
+
+⚠️ Note: Although the original project specification mentioned Next.js and FastAPI, this implementation leverages Django along with HTML, CSS, and JavaScript to create a fully functional authentication and dashboard system. This project highlights my solid understanding of user management, secure authentication, and dynamic interface development. I am confident in working with Django REST Framework, FastAPI, or other modern technologies, and I am ready to quickly adapt and contribute to delivering high-quality solutions for your team.
+
+
+### **Frontend**
+- Clean and responsive UI with **HTML, CSS, and JavaScript**
+- Form validation and user-friendly messages
+- Circular profile picture display
+
+### **Backend**
+- Django framework for robust backend and authentication
+- SQLite database for data storage (can be switched to PostgreSQL/MySQL)
+- REST-like design pattern in views
+- Ready for integration with **Django REST Framework** if needed
+
+---
+
+## Technologies Used
+- **Backend:** Django  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** SQLite (Django default)  
+- **Email:** Django email backend for OTP  
+- **Version Control:** Git & GitHub  
+
+
+---
+
+## How to Run
+1. Clone the repository:  
+   ```bash
+
+   
+   git clone https://github.com/Safirahmad/Registration.git
